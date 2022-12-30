@@ -1,0 +1,28 @@
+{
+  "name": "sveltejs-show",
+  "version": "1.0.0",
+  "description": "Just like the v-show in vuejs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lete114/SvelteJS-Showz.git"
+  },
+  "keywords": [
+    "svelte",
+    "show",
+    "v-show"
+  ],
+  "files": ["dist"],
+  "author": "Lete114 <me@imlete.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lete114/SvelteJS-Showz/issues"
+  },
+  "homepage": "https://github.com/Lete114/SvelteJS-Showz#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
